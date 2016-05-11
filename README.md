@@ -1,0 +1,2 @@
+# MyTableConsoleApplication
+Azure Table example
